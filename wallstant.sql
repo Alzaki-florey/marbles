@@ -20,9 +20,13 @@ SET time_zone = "+00:00";
 
 --
 -- Database: `sn`
---
-
--- --------------------------------------------------------
+- config > connect .php
+- <?php
+$servername = "locahost";
+$username = "root"
+$password = " ";
+$dbname = "wallstant";
+------------------------------------------------- -------
 
 --
 -- Table structure for table `comments`
